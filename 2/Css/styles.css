@@ -1,0 +1,27 @@
+.navbar {
+	background:lightblue;
+}
+
+.lorem {
+	text-align: left;
+}
+
+.lorem-box {
+	margin: 0 50px 0 50px;
+	background: lightgray;
+	padding: 15px 5vw 15px 5vw;
+	max-width: 90vw;
+	clear: both;
+}
+
+ul:nth-child(1) {
+	padding-top: 10px;
+}
+
+body {
+	padding-top: 70px;
+}
+
+a {
+	font-size: 1.2em;
+}
